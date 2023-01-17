@@ -1,0 +1,114 @@
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: #04AA6D;
+}
+.header {
+  padding: 30px;
+  text-align: center;
+  background: white;
+}
+.header h1 {
+  font-size: 50px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav .current {
+  background-color: #3b5c3b;
+}
+.sticky {
+  position: sticky;
+  top: 0;
+}
+.column {
+  float: left;
+  padding: 10px;
+}
+.column.left {
+  width: 25%;
+  background: #ddd;
+  margin-top: 20px;
+}
+div { word-wrap: break-word }
+.column.middle {
+  width: 45.9%;
+  background: #f2f2f2;
+  margin-top: 20px;
+}
+div { word-wrap: break-word }
+.column.right {
+  width 25%;
+  background: #ddd;
+  margin-top: 20px;
+  max-width:25%;
+}
+div { word-wrap: break-word }
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+@media screen and (max-width: 600px) {
+  .column.left, .column.middle, column.right {
+    width: 100%;
+  }
+}
+
+.n span {
+  display:none;
+}
+.st span {
+  display:none;
+}
+.sm span {
+  display:none;
+}
+.ash span {
+  display:none;
+}
+.ac span {
+  display:none;
+}
+div { word-wrap: break-word }
+.bsh span {
+  display:none;
+}
+.bc span {
+  display:none;
+}
+.csh span {
+  display:none;
+}
+.cc span {
+  display:none;
+}
+
+</style>
+</head>
+</html>
