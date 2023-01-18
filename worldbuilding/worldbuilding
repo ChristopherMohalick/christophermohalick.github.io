@@ -7,11 +7,11 @@
 <nav class="sticky">
 <div class="topnav">
   <a href="home.html">Home</a>
-  <a href="Blog.html">Blog</a>
-  <a class='current' href="Worldbuilding.html">Worldbuilding</a>
-  <a href="Music.html">Music</a>
-  <a href="About Me">About Me</a>
-  <a href="Contact">Contact</a>
+  <a href="blog.html">Blog</a>
+  <a class='current' href="worldbuilding.html">Worldbuilding</a>
+  <a href="music.html">Music</a>
+  <a href="aboutme.html">About Me</a>
+  <a href="contact.html">Contact</a>
 </div>
 </nav>
   <div class="column middle">
