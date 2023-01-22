@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body {
-  font-family: Arial;
+  font-family: Times New Roman;
   padding: 10px;
   background: #04AA6D;
 }
@@ -48,12 +48,16 @@ body {
   width: 25%;
   background: #ddd;
   margin-top: 20px;
+  border-style: outset;
+  border-radius: 25px;
 }
 div { word-wrap: break-word }
 .column.middle {
   width: 45.9%;
   background: #f2f2f2;
   margin-top: 20px;
+  border-style: outset;
+  border-radius: 25px;
 }
 div { word-wrap: break-word }
 .column.right {
@@ -61,6 +65,8 @@ div { word-wrap: break-word }
   background: #ddd;
   margin-top: 20px;
   max-width:25%;
+  border-style: outset;
+  border-radius: 25px;
 }
 div { word-wrap: break-word }
 .row:after {
@@ -73,6 +79,8 @@ div { word-wrap: break-word }
   text-align: center;
   background: #ddd;
   margin-top: 20px;
+  border-style: outset;
+  border-radius: 25px;
 }
 @media screen and (max-width: 600px) {
   .column.left, .column.middle, column.right {
