@@ -99,6 +99,26 @@ h2 {text-align: center;
   border-style: outset;
   border-radius: 25px;
 }
+a:link {
+  color: #3366CC;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #3366CC;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: darkblue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: #795CB2;
+  background-color: transparent;
+  text-decoration: underline;
+}
 </style>
 </head>
 </html>
