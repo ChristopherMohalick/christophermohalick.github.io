@@ -123,6 +123,9 @@ a.link:active {
     padding-left: 36px;
     text-indent: -36px;
 }
+.tab {
+  margin-left: 40px;
+}
 </style>
 </head>
 </html>
