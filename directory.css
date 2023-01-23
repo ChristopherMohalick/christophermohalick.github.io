@@ -119,6 +119,10 @@ a.link:active {
   background-color: transparent;
   text-decoration: underline;
 }
+.mla {
+    padding-left: 36px;
+    text-indent: -36px;
+}
 </style>
 </head>
 </html>
