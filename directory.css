@@ -126,6 +126,10 @@ a.link:active {
 .tab {
   text-indent: 40px;
 }
+.caption {
+  color: #778899;
+  text-align: center;
+}
 </style>
 </head>
 </html>
