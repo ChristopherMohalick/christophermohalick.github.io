@@ -99,22 +99,22 @@ h2 {text-align: center;
   border-style: outset;
   border-radius: 25px;
 }
-a:link {
+a.link:link {
   color: #3366CC;
   background-color: transparent;
   text-decoration: none;
 }
-a:visited {
+a.link:visited {
   color: #3366CC;
   background-color: transparent;
   text-decoration: none;
 }
-a:hover {
+a.link:hover {
   color: darkblue;
   background-color: transparent;
   text-decoration: underline;
 }
-a:active {
+a.link:active {
   color: #795CB2;
   background-color: transparent;
   text-decoration: underline;
