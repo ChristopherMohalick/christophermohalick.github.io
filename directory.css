@@ -46,7 +46,7 @@ body {
   padding: 10px;
 }
 .column.padding {
-  padding: 20px;
+  padding: 20px 20px 20px 0px;
 }
 .column.middle {
   width: 95%;
