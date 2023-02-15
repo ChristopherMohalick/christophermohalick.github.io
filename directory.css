@@ -142,7 +142,8 @@ a.link:active {
   padding: 10px;
   width: 100%;
   text-align: center;
-  font-size: 16px;
+  font-size: 20px;
+  font-weight: bold
   border-style: outset;
   border-radius: 25px 25px 0px 0px;
   border: 5px outset;
