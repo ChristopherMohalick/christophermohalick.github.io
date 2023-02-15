@@ -146,6 +146,9 @@ a.link:active {
   border-radius: 25px 25px 0px 0px;
   border: 5px outset;
   transition: 0.3s;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Times New Roman;
 }
 .collapsible:hover {
   background-color: darkgray;
@@ -170,9 +173,6 @@ a.link:active {
   background-color: white;
   border-style: outset;
   border-radius: 0px 0px 25px 25px;
-  font-size: 24px;
-  font-weight: bold;
-  font-family: Times New Roman;
 }
 </style>
 </head>
