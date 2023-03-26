@@ -180,17 +180,15 @@ a.link:active {
   font-size: 20px;
   font-weight: bold;
   font-family: Times New Roman;
-.columnimg {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
+.stack .rowimg { 
+clear:both;
+ 
 }
-.rowimg::after {
-  content: "";
-  clear: both;
-  display: table;
-}
+.stack .rowimg  .columnimg    {
+    float:left;
+      border:1px solid;
 
+}
 </style>
 </head>
 </html>
